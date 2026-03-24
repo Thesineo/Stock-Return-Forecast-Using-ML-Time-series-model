@@ -1,4 +1,3 @@
-# sincos
 # Predecitve model for Stock Return forecast (future prediction) for  FTS100 Tech-Mark Series (top technical firms) in UK listed on London Stock Exchange 
 # ARIMA Model 
 install.packages("quantmod")
